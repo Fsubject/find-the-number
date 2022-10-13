@@ -1,7 +1,7 @@
-# Find The Number (NTH)
+# Find The Number (FTH)
 Version: 1.0 | By: Fsubject
 
-NTH is a simple terminal game coded in Python, to win the game you need to find the random number
+FTH is a simple terminal game coded in Python, to win the game you need to find the random number
 how? Just type a number in the terminal and the program will answer by "Higher" or "Lower".
 
 ## Requirements
