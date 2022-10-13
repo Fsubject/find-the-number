@@ -7,7 +7,7 @@ how? Just type a number in the terminal and the program will answer by "Higher" 
 ## Requirements
 - Python3.x | Try to get the newest version, it's better
 
-## Want to contribuate?
+## Want to contribute?
 You can! Just fork the repo, work and make a Pull Request. If the changes are good
 useful, then I accept.
 
