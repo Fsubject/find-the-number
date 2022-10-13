@@ -26,6 +26,7 @@ def main():
     
     game()
 
+# Game function
 def game():
     clear()
     print(rdmNumber)
