@@ -11,6 +11,7 @@ basic terminal.
 
 ## Requirements
 - Python3.7 or higher | Try to get the newest version, it's better
+- Pygame
 
 ## Want to contribute?
 You can! Just fork the repo, work and make a Pull Request. If the changes are good
