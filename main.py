@@ -10,7 +10,7 @@ import pygame
 def main():
     global rdmNumber
     rdmNumber = generateNumber(100)
-    print(rdmNumber)
+    #print(rdmNumber)
     game()
 
 def game():
