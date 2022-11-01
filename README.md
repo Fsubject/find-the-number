@@ -1,11 +1,16 @@
 # Find The Number (FTH)
-Version: 1.0 | By: Fsubject
+Version: 2.0 | By: Fsubject
 
 FTH is a simple terminal game coded in Python, to win the game you need to find the random number
 how? Just type a number in the terminal and the program will answer by "Higher" or "Lower".
 
+## 2.0?
+Update? Yes!
+We've just updated to 2.0, in this update we decide to make a GUI instead of the
+basic terminal.
+
 ## Requirements
-- Python3.x | Try to get the newest version, it's better
+- Python3.7 or higher | Try to get the newest version, it's better
 
 ## Want to contribute?
 You can! Just fork the repo, work and make a Pull Request. If the changes are good
