@@ -2,7 +2,7 @@
 Version: 2.0 | By: Fsubject
 
 FTH is a simple ~~terminal game~~ GUI game coded in Python, to win the game you need to find the random number
-how? Just type a number in the input box and the program will answer by "Higher" and "Lower".
+how? Just type a number between 1 and 100 in the input box and the program will answer by "Higher" and "Lower".
 
 ## 2.0?
 Update? Yes!
