@@ -10,8 +10,8 @@ We've just updated to 2.0, in this update we decide to make a GUI instead of the
 basic terminal.
 
 ## Requirements
-- Python3.7 or higher | Try to get the newest version, it's better
-- Pygame
+- Python3.7 or higher | 3.10 is recommended
+- Pygame latest version
 
 ## Want to contribute?
 You can! Just fork the repo, work and make a Pull Request. If the changes are good
@@ -20,7 +20,8 @@ or useful, then I accept.
 ## How it works?
 - Transfer all downloaded files in the same folder
 - Open a CMD in the folder
-- Write in the CMD: "python main.py", to open the file
+- Write in the CMD: "python main.py" or "python3 main.py" if you're on Linux
+- Last step, have fun!
 
 ## Any problems or want new features? Contact me!
 - Discord: Fsubject#1247
