@@ -6,7 +6,7 @@ how? Just type a number between 1 and 100 in the input box and the program will 
 
 ## 2.1:
 - MacOS crash ---> FIXED
-- PopUp when entering an answer ---> REMOVED
+- A pop-up spawned when entering an answer ---> REPLACED: by a simple colored text
 
 ## Requirements
 - Python3.7 or higher | 3.10 is recommended
