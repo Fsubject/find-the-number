@@ -1,13 +1,12 @@
 # Find The Number (FTN)
-Version: 2.0 | By: Fsubject
+Version: 2.1 | By: Fsubject
 
 FTN is a simple ~~terminal game~~ GUI game coded in Python, to win the game you need to find the random number
 how? Just type a number between 1 and 100 in the input box and the program will answer by "Higher" and "Lower".
 
-## 2.0?
-Update? Yes!
-We've just updated to 2.0, in this update we decide to make a GUI instead of the
-basic terminal.
+## 2.1:
+- MacOS crash ---> FIXED
+- PopUp when entering an answer ---> REMOVED
 
 ## Requirements
 - Python3.7 or higher | 3.10 is recommended
