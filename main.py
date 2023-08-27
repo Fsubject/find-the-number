@@ -41,7 +41,7 @@ def game():
                     elif userInput > rdmNumber:
                         text.Text().writeTextOnScreen("Your number is too high! Retry...", screen.RED, None, screen.bigFont, True, screen.WIDTH/2, (screen.HEIGHT/3)*2, False)
                     elif userInput < rdmNumber:
-                        text.Text().writeTextOnScreen("Your number is too lower! Retry...", screen.RED, None, screen.bigFont, True, screen.WIDTH/2, (screen.HEIGHT/3)*2, False)
+                        text.Text().writeTextOnScreen("Your number is too low! Retry...", screen.RED, None, screen.bigFont, True, screen.WIDTH/2, (screen.HEIGHT/3)*2, False)
                     else:
                         text.Text().writeTextOnScreen("Something is wrong with your number...", screen.RED, None, screen.bigFont, True, screen.WIDTH/2, (screen.HEIGHT/3)*2, False)
 
